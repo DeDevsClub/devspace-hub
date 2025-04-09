@@ -1,0 +1,16 @@
+{
+    "sites": [
+      {
+        "title": "DevSpace Offical",
+        "url": "https://space.dedevs.club/",
+        "tags": [
+          "official",
+          "english"
+        ],
+        "created_at": "2025-01-24",
+        "image": "https://space.devspace.com/favicon.ico",
+        "site_description": "DeDevs Official Space for DevSpace",
+        "version": "0.1.0"
+      }
+    ]
+  }
