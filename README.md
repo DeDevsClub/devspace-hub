@@ -1,6 +1,4 @@
 # DevSpace Hub
-![image](https://github.com/user-attachments/assets/e41f4fdf-8c44-4a2e-a826-cccac980882e)
-
 A directory of DevSpace sites worldwide. This repository serves as a centralized registry for all DevSpace instances.
 
 ## Quick Add Your Site
